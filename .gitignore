@@ -1,7 +1,18 @@
-# Build & temporary files
-*.exe
+# Visual Studio cache and temporary files
+.vs/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
 *.obj
-*.o
 *.pdb
 *.ilk
-.vs/
+*.tlog
+*.log
+*.recipe
+*.idb
+*.FileListAbsolute.txt
+*.vcxproj.user
+*.suo
+*.opensdf
+*.sdf
