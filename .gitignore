@@ -1,0 +1,20 @@
+# Visual Studio files
+.vs/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+*.obj
+*.pdb
+*.ilk
+*.tlog
+*.log
+*.recipe
+*.idb
+*.FileListAbsolute.txt
+*.vcxproj.user
+*.suo
+*.opensdf
+*.sdf
+__pycache__/
+*.pyc

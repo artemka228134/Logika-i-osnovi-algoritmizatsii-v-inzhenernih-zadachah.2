@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="alg2lr/alg2lr.vcxproj" Id="6da24a3e-cecd-4983-b9ea-231bfea95497" />
+</Solution>
